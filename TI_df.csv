@@ -1,0 +1,121 @@
+Name,Primary_attribute,Stat_plus,Stat_minus,Abbility_changed,Abbility_rework,Buffed,Nerfed,Reworked,Other_change,In_TI
+Abaddon,Strength,0,2,21,0,23,16,0,1,1
+Alchemist,Strength,2,1,44,0,44,27,0,0,0
+Ancient Apparition,Intelligence,1,0,26,0,25,9,0,0,1
+Anti-Mage,Agility,1,4,15,0,7,24,0,1,1
+Arc Warden,Agility,3,1,37,0,33,27,3,1,0
+Axe,Strength,5,0,19,0,21,18,0,0,1
+Bane,Intelligence,3,2,22,0,37,13,0,0,0
+Batrider,Intelligence,1,1,20,0,4,24,0,0,1
+Beastmaster,Strength,0,1,17,0,20,23,0,0,0
+Bloodseeker,Agility,4,0,36,0,29,32,0,0,0
+Bounty Hunter,Agility,3,2,29,0,29,19,0,1,0
+Brewmaster,Strength,0,0,26,0,33,9,0,0,1
+Bristleback,Strength,2,1,16,0,34,5,0,1,0
+Broodmother,Agility,4,2,25,0,38,36,0,3,0
+Centaur Warrunner,Strength,1,2,21,0,17,15,0,1,0
+Chaos Knight,Strength,0,0,22,0,29,2,0,0,1
+Chen,Intelligence,2,2,29,0,36,24,0,0,0
+Clinkz,Agility,2,1,37,0,41,19,0,3,0
+Clockwerk,Strength,2,3,20,0,18,11,0,0,0
+Crystal Maiden,Intelligence,2,1,29,0,36,12,0,0,1
+Dark Seer,Intelligence,1,3,34,0,59,17,1,2,1
+Dark Willow,Intelligence,0,0,9,0,11,0,0,0,0
+Dazzle,Intelligence,2,1,23,0,31,13,0,0,0
+Death Prophet,Intelligence,8,4,35,0,42,26,0,0,0
+Disruptor,Intelligence,0,0,8,0,10,7,0,0,0
+Doom,Strength,1,1,26,0,31,22,0,0,1
+Dragon Knight,Strength,4,1,11,0,33,10,0,0,0
+Drow Ranger,Agility,4,4,27,0,36,27,0,1,0
+Earth Spirit,Strength,3,3,48,0,38,39,0,0,0
+Earthshaker,Strength,3,0,9,0,18,5,0,0,1
+Elder Titan,Strength,0,0,25,0,18,14,0,1,1
+Ember Spirit,Agility,2,0,22,0,25,21,2,1,1
+Enchantress,Intelligence,5,4,27,0,44,14,1,0,0
+Enigma,Intelligence,0,2,18,0,25,8,0,0,0
+Faceless Void,Agility,1,2,33,0,14,38,0,1,0
+Grimstroke,Intelligence,0,2,35,0,22,24,0,0,0
+Gyrocopter,Agility,5,1,28,0,47,13,0,1,1
+Hoodwink,Agility,0,0,0,0,0,0,0,0,0
+Huskar,Strength,1,4,17,0,22,10,0,0,0
+Invoker,Intelligence,3,0,29,0,23,18,0,0,0
+Io,Strength,1,2,43,0,30,41,0,1,1
+Jakiro,Intelligence,1,0,4,0,11,1,0,0,0
+Juggernaut,Agility,2,2,31,0,27,23,0,0,1
+Keeper of the Light,Intelligence,0,2,22,0,19,17,0,0,1
+Kunkka,Strength,3,0,28,0,28,16,0,0,0
+Legion Commander,Strength,1,0,17,0,21,4,0,0,0
+Leshrac,Intelligence,5,2,22,0,31,9,0,0,0
+Lich,Intelligence,0,3,22,0,36,10,0,0,1
+Lifestealer,Strength,3,3,11,0,11,19,0,1,0
+Lina,Intelligence,3,2,17,0,29,22,0,1,0
+Lion,Intelligence,1,1,14,0,22,2,0,0,0
+Lone Druid,Agility,0,4,14,0,26,30,0,1,0
+Luna,Agility,2,2,19,0,35,14,0,0,0
+Lycan,Strength,1,8,47,0,44,47,0,4,0
+Magnus,Strength,0,3,44,0,45,22,0,0,1
+Mars,Strength,0,2,10,0,17,19,0,2,0
+Medusa,Agility,4,3,19,0,31,14,0,0,0
+Meepo,Agility,5,2,8,0,17,25,0,2,0
+Mirana,Agility,4,1,27,0,38,16,0,0,0
+Monkey King,Agility,2,1,42,0,53,31,0,2,0
+Morphling,Agility,0,3,42,0,40,28,0,5,0
+Naga Siren,Agility,4,1,22,0,32,8,0,0,1
+Nature's Prophet,Intelligence,6,3,6,0,28,9,0,2,1
+Necrophos,Intelligence,2,2,22,0,22,35,0,3,1
+Night Stalker,Strength,3,5,26,0,9,36,0,0,0
+Nyx Assassin,Agility,2,2,15,0,16,15,0,0,0
+Ogre Magi,Intelligence,3,5,25,0,30,14,0,1,0
+Omniknight,Strength,1,0,23,0,13,32,0,0,0
+Oracle,Intelligence,2,1,11,0,11,11,0,1,0
+Outworld Destroyer,Intelligence,7,1,23,0,53,17,3,0,0
+Pangolier,Agility,1,0,28,0,19,14,0,0,0
+Phantom Assassin,Agility,3,1,26,0,21,20,0,0,0
+Phantom Lancer,Agility,2,1,23,0,30,12,0,0,0
+Phoenix,Strength,3,1,23,0,30,18,0,0,0
+Puck,Intelligence,6,2,29,0,46,14,0,0,1
+Pudge,Strength,2,0,25,0,20,16,0,0,0
+Pugna,Intelligence,2,1,15,0,17,5,0,0,0
+Queen of Pain,Intelligence,6,0,20,0,32,9,0,0,0
+Razor,Agility,5,3,10,0,30,10,3,0,0
+Riki,Agility,8,3,42,0,45,33,0,0,0
+Rubick,Intelligence,1,0,13,0,15,10,0,0,1
+Sand King,Strength,0,5,21,0,22,17,0,0,0
+Shadow Demon,Intelligence,3,0,22,0,22,14,0,2,0
+Shadow Fiend,Agility,4,0,3,0,31,4,0,0,0
+Shadow Shaman,Intelligence,0,0,9,0,18,8,0,0,1
+Silencer,Intelligence,0,0,20,0,15,11,0,0,0
+Skywrath Mage,Intelligence,1,0,14,0,21,2,0,1,0
+Slardar,Strength,0,2,12,0,14,19,0,0,0
+Slark,Agility,0,5,26,0,22,23,0,2,0
+Snapfire,Strength,0,1,9,0,11,10,0,0,0
+Sniper,Agility,2,1,18,0,26,13,0,1,0
+Spectre,Agility,2,1,31,0,24,25,0,0,0
+Spirit Breaker,Strength,0,1,13,0,17,11,0,0,0
+Storm Spirit,Intelligence,3,1,11,0,17,6,0,0,1
+Sven,Strength,7,4,24,0,20,29,0,0,0
+Techies,Intelligence,1,0,3,0,6,24,0,0,0
+Templar Assassin,Agility,3,1,14,0,15,7,0,0,1
+Terrorblade,Agility,2,0,23,0,19,23,0,1,0
+Tidehunter,Strength,1,0,10,0,13,4,0,0,1
+Timbersaw,Strength,0,0,10,0,21,6,0,0,1
+Tinker,Intelligence,0,1,7,0,13,5,0,0,0
+Tiny,Strength,4,2,41,0,44,22,4,1,1
+Treant Protector,Strength,0,7,53,0,48,37,0,0,0
+Troll Warlord,Agility,0,1,10,0,4,12,0,0,0
+Tusk,Strength,2,1,13,0,9,12,0,0,0
+Underlord,Strength,0,1,21,0,24,16,0,0,0
+Undying,Strength,0,0,26,0,18,19,1,0,0
+Ursa,Agility,1,6,22,0,8,32,0,1,0
+Vengeful Spirit,Agility,1,4,22,0,21,19,0,0,0
+Venomancer,Agility,1,2,8,0,4,8,0,0,0
+Viper,Agility,3,0,11,0,25,1,2,1,0
+Visage,Intelligence,0,1,13,0,16,8,0,1,0
+Void Spirit,Intelligence,0,3,1,0,4,11,0,0,0
+Warlock,Intelligence,0,0,5,0,7,5,3,0,0
+Weaver,Agility,0,1,13,0,8,17,0,2,0
+Windranger,Intelligence,1,1,26,0,34,4,0,1,0
+Winter Wyvern,Intelligence,1,1,14,0,16,16,0,0,0
+Witch Doctor,Intelligence,0,0,5,0,4,2,0,0,0
+Wraith King,Strength,0,3,12,0,5,24,0,0,0
+Zeus,Intelligence,1,0,14,0,23,4,0,0,1

@@ -1,0 +1,121 @@
+Name,Primary_attribute,Stat_plus,Stat_minus,Abbility_changed,Buffed,Nerfed,Reworked,Other_change,In_TI
+Abaddon,1,0,2,21,23,16,0,1,1
+Alchemist,1,2,1,44,44,27,0,0,0
+Ancient Apparition,3,1,0,26,25,9,0,0,1
+Anti-Mage,2,1,4,15,7,24,0,1,1
+Arc Warden,2,3,1,37,33,27,3,1,0
+Axe,1,5,0,19,21,18,0,0,1
+Bane,3,3,2,22,37,13,0,0,0
+Batrider,3,1,1,20,4,24,0,0,1
+Beastmaster,1,0,1,17,20,23,0,0,0
+Bloodseeker,2,4,0,36,29,32,0,0,0
+Bounty Hunter,2,3,2,29,29,19,0,1,0
+Brewmaster,1,0,0,26,33,9,0,0,1
+Bristleback,1,2,1,16,34,5,0,1,0
+Broodmother,2,4,2,25,38,36,0,3,0
+Centaur Warrunner,1,1,2,21,17,15,0,1,0
+Chaos Knight,1,0,0,22,29,2,0,0,1
+Chen,3,2,2,29,36,24,0,0,0
+Clinkz,2,2,1,37,41,19,0,3,0
+Clockwerk,1,2,3,20,18,11,0,0,0
+Crystal Maiden,3,2,1,29,36,12,0,0,1
+Dark Seer,3,1,3,34,59,17,1,2,1
+Dark Willow,3,0,0,9,11,0,0,0,0
+Dazzle,3,2,1,23,31,13,0,0,0
+Death Prophet,3,8,4,35,42,26,0,0,0
+Disruptor,3,0,0,8,10,7,0,0,0
+Doom,1,1,1,26,31,22,0,0,1
+Dragon Knight,1,4,1,11,33,10,0,0,0
+Drow Ranger,2,4,4,27,36,27,0,1,0
+Earth Spirit,1,3,3,48,38,39,0,0,0
+Earthshaker,1,3,0,9,18,5,0,0,1
+Elder Titan,1,0,0,25,18,14,0,1,1
+Ember Spirit,2,2,0,22,25,21,2,1,1
+Enchantress,3,5,4,27,44,14,1,0,0
+Enigma,3,0,2,18,25,8,0,0,0
+Faceless Void,2,1,2,33,14,38,0,1,0
+Grimstroke,3,0,2,35,22,24,0,0,0
+Gyrocopter,2,5,1,28,47,13,0,1,1
+Hoodwink,2,0,0,0,0,0,0,0,0
+Huskar,1,1,4,17,22,10,0,0,0
+Invoker,3,3,0,29,23,18,0,0,0
+Io,1,1,2,43,30,41,0,1,1
+Jakiro,3,1,0,4,11,1,0,0,0
+Juggernaut,2,2,2,31,27,23,0,0,1
+Keeper of the Light,3,0,2,22,19,17,0,0,1
+Kunkka,1,3,0,28,28,16,0,0,0
+Legion Commander,1,1,0,17,21,4,0,0,0
+Leshrac,3,5,2,22,31,9,0,0,0
+Lich,3,0,3,22,36,10,0,0,1
+Lifestealer,1,3,3,11,11,19,0,1,0
+Lina,3,3,2,17,29,22,0,1,0
+Lion,3,1,1,14,22,2,0,0,0
+Lone Druid,2,0,4,14,26,30,0,1,0
+Luna,2,2,2,19,35,14,0,0,0
+Lycan,1,1,8,47,44,47,0,4,0
+Magnus,1,0,3,44,45,22,0,0,1
+Mars,1,0,2,10,17,19,0,2,0
+Medusa,2,4,3,19,31,14,0,0,0
+Meepo,2,5,2,8,17,25,0,2,0
+Mirana,2,4,1,27,38,16,0,0,0
+Monkey King,2,2,1,42,53,31,0,2,0
+Morphling,2,0,3,42,40,28,0,5,0
+Naga Siren,2,4,1,22,32,8,0,0,1
+Nature's Prophet,3,6,3,6,28,9,0,2,1
+Necrophos,3,2,2,22,22,35,0,3,1
+Night Stalker,1,3,5,26,9,36,0,0,0
+Nyx Assassin,2,2,2,15,16,15,0,0,0
+Ogre Magi,3,3,5,25,30,14,0,1,0
+Omniknight,1,1,0,23,13,32,0,0,0
+Oracle,3,2,1,11,11,11,0,1,0
+Outworld Destroyer,3,7,1,23,53,17,3,0,0
+Pangolier,2,1,0,28,19,14,0,0,0
+Phantom Assassin,2,3,1,26,21,20,0,0,0
+Phantom Lancer,2,2,1,23,30,12,0,0,0
+Phoenix,1,3,1,23,30,18,0,0,0
+Puck,3,6,2,29,46,14,0,0,1
+Pudge,1,2,0,25,20,16,0,0,0
+Pugna,3,2,1,15,17,5,0,0,0
+Queen of Pain,3,6,0,20,32,9,0,0,0
+Razor,2,5,3,10,30,10,3,0,0
+Riki,2,8,3,42,45,33,0,0,0
+Rubick,3,1,0,13,15,10,0,0,1
+Sand King,1,0,5,21,22,17,0,0,0
+Shadow Demon,3,3,0,22,22,14,0,2,0
+Shadow Fiend,2,4,0,3,31,4,0,0,0
+Shadow Shaman,3,0,0,9,18,8,0,0,1
+Silencer,3,0,0,20,15,11,0,0,0
+Skywrath Mage,3,1,0,14,21,2,0,1,0
+Slardar,1,0,2,12,14,19,0,0,0
+Slark,2,0,5,26,22,23,0,2,0
+Snapfire,1,0,1,9,11,10,0,0,0
+Sniper,2,2,1,18,26,13,0,1,0
+Spectre,2,2,1,31,24,25,0,0,0
+Spirit Breaker,1,0,1,13,17,11,0,0,0
+Storm Spirit,3,3,1,11,17,6,0,0,1
+Sven,1,7,4,24,20,29,0,0,0
+Techies,3,1,0,3,6,24,0,0,0
+Templar Assassin,2,3,1,14,15,7,0,0,1
+Terrorblade,2,2,0,23,19,23,0,1,0
+Tidehunter,1,1,0,10,13,4,0,0,1
+Timbersaw,1,0,0,10,21,6,0,0,1
+Tinker,3,0,1,7,13,5,0,0,0
+Tiny,1,4,2,41,44,22,4,1,1
+Treant Protector,1,0,7,53,48,37,0,0,0
+Troll Warlord,2,0,1,10,4,12,0,0,0
+Tusk,1,2,1,13,9,12,0,0,0
+Underlord,1,0,1,21,24,16,0,0,0
+Undying,1,0,0,26,18,19,1,0,0
+Ursa,2,1,6,22,8,32,0,1,0
+Vengeful Spirit,2,1,4,22,21,19,0,0,0
+Venomancer,2,1,2,8,4,8,0,0,0
+Viper,2,3,0,11,25,1,2,1,0
+Visage,3,0,1,13,16,8,0,1,0
+Void Spirit,3,0,3,1,4,11,0,0,0
+Warlock,3,0,0,5,7,5,3,0,0
+Weaver,2,0,1,13,8,17,0,2,0
+Windranger,3,1,1,26,34,4,0,1,0
+Winter Wyvern,3,1,1,14,16,16,0,0,0
+Witch Doctor,3,0,0,5,4,2,0,0,0
+Wraith King,1,0,3,12,5,24,0,0,0
+Zeus,3,1,0,14,23,4,0,0,1
